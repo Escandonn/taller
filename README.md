@@ -20,7 +20,7 @@ Este proyecto es un ejemplo completo que combina varios **widgets fundamentales 
 
 ### a) Crear proyecto
 
-![Texto alternativo](Escandonn/taller/assets/imagen.png)
+![Texto alternativo](/assets/imagen.png)
 
 ```bash
 flutter create taller1_flutter
