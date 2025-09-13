@@ -140,4 +140,13 @@ Este taller demuestra:
 ✅ Botones variados (`ElevatedButton`, `OutlinedButton`).
 
 
+## 📸 Evidencias
+🔹 Estado inicial
+
+
+🔹 Estado tras presionar botón
+
+🔹 Widgets adicionales funcionando
+
+
 ---
