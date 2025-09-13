@@ -142,8 +142,7 @@ Este taller demuestra:
 
 ## 📸 Evidencias
 🔹 Estado inicial
-
-
+![Imagen local](assets/1.png)
 🔹 Estado tras presionar botón
 
 🔹 Widgets adicionales funcionando
