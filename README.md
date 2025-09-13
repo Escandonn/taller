@@ -142,11 +142,11 @@ Este taller demuestra:
 
 ## 📸 Evidencias
 
-### Estado inicial
+### 🔹 Estado inicial
 ![Estado inicial](assets/1.png)
 
-### Estado tras presionar botón
-![Estado tras presionar](assets/2.png)
+### 🔹 Estado tras presionar botón
+![Estado tras presionar botón](assets/2.png)
 
-### Widgets adicionales funcionando
+### 🔹 Widgets adicionales funcionando
 ![Widgets funcionando](assets/3.png)
